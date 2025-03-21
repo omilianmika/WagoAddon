@@ -1,0 +1,8 @@
+## Interface: 11403
+## Title: WagoAddon
+## Notes: Next-move PvP WeakAura helper
+## Author: Your Name
+## Version: 1.0.0
+## SavedVariables: WagoAddonDB
+
+WagoAddon.lua 
